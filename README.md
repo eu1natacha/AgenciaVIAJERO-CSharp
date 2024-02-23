@@ -90,15 +90,13 @@ Esse é um projeto de website de agência de viagens, desenvolvido durante o cur
 ## 🛠 Tecnologias
 
 ### **Frontend** 
--   **HTML**
--   **CSS**
--   **Bootstrap**
--   **JavaScript**
+-   React
+	-   Next.js
 
 ### **Backend** 
--  **Java**
-	- Tomcat Apache
-	- Servlet
+-  C#
+- .NET
+
 -  **SQL**
 
 ### **Banco de dados** 
